@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: blue;
+    background-color: goldenrod;
+}
+*{
+    border: solid;
+}
+.header{
+    display : flex;
+    justify-content: 'center';
+    align-content: 'center';
+    background-color: gold;
+    padding-left: 500px;
+
+}
+.header a {
+    margin-left: 20px;
+}
+
+
+
+
+.items{
+    text-align: center;
+    background-color: goldenrod;
+}
+
+body{
+    background-color: #000000;
+}
+
+.menu{
+    margin-right: 30px;
+}
